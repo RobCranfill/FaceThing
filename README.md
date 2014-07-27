@@ -1,4 +1,4 @@
 FaceThing
 =========
 
-My new - first! - Android app?
+My new Android app. I haven't started it yet....
